@@ -3,13 +3,8 @@
 
 
 /**
-
 *  main - print to the standard output 'Programming is multilingual puzzle'
-
 *
-
-*  Use Puts
-
 *  Return: retrn 0
 
 */
