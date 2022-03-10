@@ -3,7 +3,6 @@
 
 
 /**
- *
  * main - should "print the size of data types to the standard output"
  * warning Allowed
  * Return: return 0
