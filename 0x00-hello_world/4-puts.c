@@ -6,7 +6,6 @@
 *  main - print to the standard output 'Programming is multilingual puzzle'
 *
 *  Return: retrn 0
-
 */
 
 
