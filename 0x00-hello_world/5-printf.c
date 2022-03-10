@@ -3,7 +3,8 @@
 
 
 /**
- * main - print to std output "with proper grammar, but the outcome is a piece of art"
+ * main - print to std output "with proper grammar,
+ * but the outcome is a piece of art"
  * Return: Return 0 (Without warning)
  */
 
