@@ -2,8 +2,8 @@
 
 
 /**
- *
- *  main - prints all the number of base 16 in lowercase,followed by a new line.
+ * main - prints all the number of base
+ * 16 in lowercase,followed by a new line.
  */
 int main(void)
 
